@@ -27,6 +27,6 @@ Beyond this, I created all three boss fights seen in-game alongside the timer th
 
 ![](https://github.com/CalebStudent/Caleb-McCartney-ANGRi-Work/blob/main/time.PNG) 
 
-The times are recorded individually for each boss and are displayed on the main menu beneath their respective level, tempting players to go back in and to set a new best time.
+The times are recorded individually for each boss and are displayed on the main menu beneath their respective level, tempting players to go back in and to set a new best time. Alongside this is a progression blocker. The player starts with the first level and must beat it to unlock the second level and beat the second to unlock the third.
 
 Looking back at the project, I wish I could've toyed with more unusual mechanics on all fronts. Make the player move in a special way for a level, use different layouts like restricting the player to the bottom of the screen, make the boss move and shoot alongside other attacks that involved them physically. However, development time and feasibility of implementing prevented these areas from being explored fully.
